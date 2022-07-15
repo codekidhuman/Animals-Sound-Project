@@ -1,0 +1,15 @@
+SOUND RECOGNIZER
+https://teachablemachine.withgoogle.com/models/Jnz2NY865/
+
+links used for training (playing these noises will most likely get the most accurate responses from the sound recognizer)
+CHICKEN NOISES 
+https://orangefreesounds.com/chickens-sound-effect/
+
+SHEEP NOISES
+https://orangefreesounds.com/sheep-bleating/
+
+BIRD NOISES
+https://orangefreesounds.com/bird-chirping-sound-effect/
+
+DOG NOISES
+https://orangefreesounds.com/large-dog-barking/
